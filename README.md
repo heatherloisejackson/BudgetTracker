@@ -11,9 +11,7 @@ If you would like to install the application locally, clone this application ont
 
 ## Usage
 Below are screenshots of the working application.
-![screenshot1](https://github.com/heatherloisejackson/FitnessTracker/blob/main/public/images/Screen%20Shot%202021-07-13%20at%206.22.21%20PM.png)
-![screenshot2](https://github.com/heatherloisejackson/FitnessTracker/blob/main/public/images/Screen%20Shot%202021-07-13%20at%206.22.51%20PM.png)
-![screenshot3](https://github.com/heatherloisejackson/FitnessTracker/blob/main/public/images/Screen%20Shot%202021-07-13%20at%206.22.37%20PM.png)
+![screenshot1]()
 
 ## Credits
 Thank you to Penn LPS Coding Bootcamp, instructors, peers, [JavaScript](https://www.javascript.com/), [Node.JS](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) and its packages, [Express.js](https://expressjs.com/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://mongoosejs.com/), [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) & [Robo3T](https://robomongo.org/), and Heroku.
