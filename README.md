@@ -11,7 +11,7 @@ If you would like to install the application locally, clone this application ont
 
 ## Usage
 Below are screenshots of the working application.
-![screenshot1]()
+![screenshot1](https://github.com/heatherloisejackson/BudgetTracker/blob/main/public/images/Screen%20Shot%202021-07-26%20at%207.23.28%20PM.png)
 
 ## Credits
 Thank you to Penn LPS Coding Bootcamp, instructors, peers, [JavaScript](https://www.javascript.com/), [Node.JS](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) and its packages, [Express.js](https://expressjs.com/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://mongoosejs.com/), [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) & [Robo3T](https://robomongo.org/), and Heroku.
